@@ -7,6 +7,18 @@
 - 📫 All my links are at : https://linktr.ee/jodiskripe
 - I regularly check my DMs on LinkedIn so you can message me there :) 
 
+<p align="center">
+<a href="https://github.com/JodisKripe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JodisKripe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyromancerBoom&layout=compact&langs_count=8&theme=radical"/> -->
+</a>
+  <p align="center">
+  <a href="https://github.com/JodisKripe/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JodisKripe&theme=synthwave#version3"/>
+  </a>
+</p>
+</p>
+
 <!---
 JodisKripe/JodisKripe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
